@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git'
+    repoURL: 'https://github.com/srikanthopsmx/ArgoCD-Complete-Master-Course.git'
     targetRevision: HEAD
     path: 0-Demo_Files/Sample_Deployment_Service
   destination: 
