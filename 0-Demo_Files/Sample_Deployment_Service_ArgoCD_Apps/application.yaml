@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: 'https://github.com/srikanthopsmx/ArgoCD-Complete-Master-Course.git'
-    targetRevision: HEAD
+    targetRevision: Practice
     path: 0-Demo_Files/Sample_Deployment_Service
   destination: 
     server: https://kubernetes.default.svc
